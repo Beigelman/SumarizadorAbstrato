@@ -1,0 +1,2 @@
+# SumarizadorAbstrato
+Justificativa:
